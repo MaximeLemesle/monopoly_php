@@ -8,7 +8,7 @@ Réalisation d'un jeu Monopoly en PHP pour apprendre le principe de classe et d'
 ## 📚 Table des matières
 
 - 🪧 [À propos](#à-propos)
-- 🏗️ [Langages & Frameworks](#langages--frameworks)
+- 🛠️ [Langages & Frameworks](#langages--frameworks)
 
 
 ## 🛠️ Langages & Frameworks
